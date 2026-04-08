@@ -1,0 +1,2 @@
+# logika
+logika progekt
